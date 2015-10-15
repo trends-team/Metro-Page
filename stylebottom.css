@@ -1,0 +1,58 @@
+.bottom-half{
+	width:1200px;
+	margin:0px;
+	padding: 0px;
+}
+
+.bottom-left {
+	width:33%;
+	float:left;
+	position: relative;
+}
+.bottom-middle{
+	width:33%;
+	margin: 401px;
+	background-color: red;
+} 
+
+.bottom-right{
+	width:33%;
+	background-color: yellow;
+	float:right;
+}
+
+.bheader1{
+	text-align: left;
+	color: white;
+	font-style:bold;
+	font-family: ScoutBold, Arial, Helvetica, sans-serif;
+}
+.bheader2{
+	color: purple;
+}
+.bheader3{
+	color: #FF00FF;
+}
+.hmbeauty-box {
+	background-color: purple;
+	color: white;
+	width: 100%;
+}
+strong{
+	font-style: italic;
+	font-weight: 900;
+}
+.jumper{
+	width:50%;
+	float:left;
+}
+.makeup-pic{
+	width:100%;
+	float:left;
+}
+.hairstyler{
+	width: 100%;
+}
+.eye-gel{
+	width:50%;
+}
