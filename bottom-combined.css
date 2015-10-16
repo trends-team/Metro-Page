@@ -1,3 +1,9 @@
+.bottom-half{
+	width:990px;
+	margin:0px;
+	padding: 0px;
+	position:relative;
+}
 
 .bottom-left {
 	width:325px;
@@ -18,8 +24,8 @@
 	width:325px;
 	position: absolute;
 	top:0px;
-	float:right;
-	height:260px;
+	margin-left:652px;
+	height:240px;
 }
 .bottom-right2{
 	background-color: none;
@@ -27,7 +33,6 @@
 	margin-top: 0px;
 	margin-left: 652px;
 	height:110px;
-	float:right;
 }
 
 .bheader1{
@@ -81,7 +86,6 @@ strong{
 }
 .hairwand-pic{
 	width: 100%;
-
 }
 .eye-gel-pic{
 	width:50%;
