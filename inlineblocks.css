@@ -36,7 +36,6 @@
 	font-size: 16px;
 	border:0;
 	padding:0;
-
 }
 .bheader3{
 	font-family: Arial, Helvetica, sans-serif;
@@ -83,12 +82,14 @@ strong{
 .makeup-pic{
 	width:325px;
 	height: 390px;
-	
 	display:inline-block;
 }
 .cleanshirt-pic{
 	width:325px;
-	display:inline;
+	display:inline-block;
+	position: relative;
+	left:30;
+	top:-20;
 }
 .hairwand-pic{
 	width: 325px;
@@ -123,7 +124,7 @@ p{
 .columntext{
 	width:325px;
 	color: black;
-	margin-bottom: 1px;
-	margin-top: 1px;
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
 
