@@ -6,9 +6,6 @@ strong{
 	font-weight: 900;
 	text-align: right;
 }
-p{
-	font-size:11px;
-}
 .over-box-top{
 	width: 1050px;
     height: 662px;
@@ -45,6 +42,7 @@ p{
 	margin-top: 5px;
 	margin-left: 5px;
 }
+
 .upper-img-top1{
 	float: right;
 	position: relative;
@@ -73,14 +71,14 @@ p{
 
 .lower-img1-top1{
 	float:right;
-	height: 77;
-	width: 89;
+	height: 77px;
+	width: 89px;
 	position: relative;
 	left: 37px;
 }
 .lower-img2-top1{
 	float:right;
-	height: 205;
+	height: 205px;
 	position: relative;
 }
 .lower-para-top1{
@@ -90,8 +88,12 @@ p{
 	margin-top: 0px;
 	clear: right;
 }
+.lower-para-text-top1{
+	position: relative;
+    bottom: 15px;
+}
 .overall-box-top2{
-	width: 600px;
+	width: 520px;
 	height:662px;
 	background-color: #999999;
 	float: left;
@@ -116,7 +118,7 @@ p{
 	height: 666px;
 	float: right;
 	position: relative;
-	right: 35px;
+	right: 5px;
 	bottom: 5px;
 }
 .upper-header-the-top2{
@@ -184,7 +186,7 @@ p{
 }
 .lower-header-top2{
 	color: pink;
-	margin-left: 20px;
+	margin-left: 1px;
 	position: relative;
 	font-size: 10px;
 	clear: left;
@@ -211,7 +213,7 @@ p{
 }
 .upper-half-box-top3{
 	width: 200px;
-	height: 414px;
+	height: 400px;
 	background-color: purple;
 	position: relative;
 	bottom: 10px;
@@ -246,22 +248,22 @@ p{
 	float: left;
 	width: 200px;
 	position: relative;
-	bottom: 95px;
+	bottom: 85px;
 	left: 4px;
 }
 .lower-header-top3{
-	font-size:20;
+	font-size:20px;
 	font-weight: 600;
 	margin-bottom: 0px;
 	margin-top: 0px;
 	position: relative;
-	bottom: 90px;
+	bottom: 80px;
 }
 .lower-img-top3{
 	float: right;
 	height: 255px;
 	position: relative;
-	bottom: 95;
+	bottom: 85px;
 }
 .lower-para-top3{
 	font-size: 11px;
@@ -269,127 +271,146 @@ p{
 	bottom: 90px;
 }
 .all-bottom{
-	margin:0px;
-	padding:0px;
 	width: 1050px;
     height: 331px;
 }
 .bottom-left {
-	width:325px;
-	display:inline-block;
+	width:330px;
+	height:331px;
+	float: left;
+	position: relative;
+	top:10px;
+}
+.bottom-left-text-container{
+	height: 102px;
+	width: 330px;
 	background-color: purple;
 	color: white;
+	font-size: 11px;
+	float:left;
+	position: relative;
+}
+.bheader1{
+	font-size: 16px;
+	width: 325px;
+	margin: 0px;	
+}
+.makeup-pic{
+	width:330px;
+	height: 221px;
+	float:left;
+	position:relative;
+	top:5px;
+}
+.all-bottom{
+	width: 1050px;
+    height: 331px;
+    position: relative;
+    top: 10px;
 }
 .bottom-middle{
-	width:325px;
-	display: inline-block;
+	width:286px;
+	height: 331px;
+	float: left;
 	background-color:none;
 	color: black;
 } 
-.bottom-right{
-	display:inline-block;
-	width:325px;
-}
-.bheader1{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	background-color: purple;
-	color: white;
-	width: 325px;
-	margin:0px;
-	padding:0px;
-}
-.bheader2{
-	display:inline;
-	color: purple;
-	font-style:bold;
-	font-family: ScoutBold, Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	border:0;
-	padding:0;
-}
-.bheader3{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: white;
-	width: 165px;
-	margin:0px;
-	padding:0px;
-	background-color: #880000;
-	margin-left: 165px;
-}
-.bheader4{
-	color: purple;
-	font-weight: 700;
-	font-family: ScoutBold, Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	border:0;
-	padding:0;
-	background-color: none;
-	clear:left;
-	display:inline;
+.bottom-middle-text-container{
+	width:300px;
+	height:170px;
+	color: black;
+	font-size: 11px;
+	float:left;
 }
 
-.makeup-text {
-	background-color: purple;
-	color: white;
-	width: 325px;
-	margin:0px;
-	padding:0px;
-	display:inline-block;
+.bheader2{
+	color: purple;
+	font-style:bold;
+	font-size: 16px;
+	margin: 0px;
+	position:relative;
 	
 }
 .jumper-pic{
-	width:134px;
+	width:100px;
 	float:left;
 	display:inline;
-	height: 200px;
-	
-}
-.makeup-pic{
-	width:325px;
-	height: 248px;
-	display:inline-block;
+	height: 145px;
 }
 .cleanshirt-pic{
-	width:325px;
-	display:inline-block;
-	
+	width:286px;
+	float:left;
+	position: relative;
+	bottom:20px;
+}
+.text-align{
+	float:left;
+	position:relative;
+	bottom: 220px;
+    left: 160px;
+}
+.all-bottom{
+	width: 1050px;
+    height: 331px;
+}
+.bottom-right{
+	float: left;
+	height: 351px;
+	width:308px;
+	position: relative;
+    left: 20px;
+}
+.bottom-right-text-container1{
+	color: white;
+	width: 308px;
+	padding:0px;
+	background-color: #880000;
+	height:165px;
+	font-size: 11px;
+}
+.bheader3{
+	color: white;
+	font-weight: 700;
+	font-size: 16px;
+}
+.bheader4{
+	clear:left;
+	color: purple;
+	font-weight: 700;
+	font-size: 16px;
+	position: relative;
+	bottom:20px;
 }
 .hairwand-pic{
-	width: 325px;
-	left:0;
-	display:inline;
-	
+	width: 328px;
+    float: left;
+    position: relative;
+    right: 40px;
+    bottom: 35px;
 }
 .eye-gel-pic{
 	float:left;
-	height: 210px;
+	height: 185px;
 	background: rgba(255,255,255,0);
-	margin-right: 1px;
-	
+	position: relative;
+	bottom: 20px;
 }
-.eye-gel-text{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
-	color: white;
-	width: 165px;
-	margin:0px;
-	padding:0px;
-	background-color: #880000;
-	margin-left: 165px;
+.pricing-top-right{
+	float:left;
+	position: relative;
+	bottom: 18px;
+	left:60px;
 }
-.rightjust{
-	font-weight: 900;
-	font-size: 13px;
+.pricing-bottom-right{
+	float:left;
+	position: relative;
+	bottom: 75px;
+	left:10px;
+	font-size: 11px;
 }
-.columntext{
-	width:325px;
-	color: black;
-	margin-bottom: 0px;
-	margin-top: 0px;
-}
-.clearfix{
-	clear:left;
-	clear:top;
+.hairwand-text{
+	float:left;
+	position: relative;
+	bottom: 50px;
+	font-size: 11px;
 }
