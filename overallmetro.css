@@ -1,0 +1,260 @@
+body{
+	font-family: arial;
+}
+.overall-box-top1{
+	width: 200px;
+	height:662px;
+	float: left;
+}
+.upper-half-box-top1{
+	width: 200px;
+	height: 278px;
+	background-color: purple;
+	position: relative;
+    bottom: 10px;
+}
+.lower-half-box-top1{
+	width: 200px;
+	height: 384px;
+	position: relative;
+    bottom: 10px;
+}
+.upper-header-top1{
+	font-size:20;
+	color: #cccccc;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	font-weight: 600;
+}
+.upper-para-top1{
+	font-size: 11px;
+	color: #cccccc;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.upper-img-top1{
+	float: right;
+	position: relative;
+	left: 7px;
+	top: 0px;
+	width: 101px;
+	height: 229px;
+}
+strong{
+	text-align: right;
+}
+.middle-img-top1{
+	float: left;
+	height: 165px;
+	width: 200px;
+	position: relative;
+	bottom: 20px;
+}
+.lower-header-top1{
+	font-size:20;
+	font-weight: 600;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	position: relative;
+	bottom: 40px;
+	color: purple;
+}
+
+.lower-img1-top1{
+	float:right;
+	height: 77;
+	width: 89;
+	position: relative;
+	left: 37px;
+}
+.lower-img2-top1{
+	float:right;
+	height: 205;
+	position: relative;
+}
+.lower-para-top1{
+	font-size: 11px;
+	position: relative;
+	bottom: 60px;
+	margin-top: 0px;
+	clear: right;
+}
+.overall-box-top2{
+	width: 600px;
+	height:662px;
+	background-color: #999999;
+	float: left;
+	font-size: 11px;
+	color: #cccccc;
+	font-family: arial;
+	position: relative;
+	left:15px;
+}
+.upper-half-box-top2{
+ 	height:140px;
+ 	position: relative;
+    bottom: 10px;
+}
+.lower-half-box-top2{
+	height:522px;
+	width:340px;
+	position: relative;
+	top: 40px;
+}
+.middle-img-top2{
+	height: 666px;
+    float: right;
+    position: relative;
+    right: 35px;
+    bottom: 5px;
+}
+.upper-header-the-top2{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	font-size: 50px;
+	font-family: 'Cookie', cursive;
+	position: relative;
+	top:10px;
+}
+.upper-header-hot-top2{
+	color: pink;
+	margin-left: 40px;
+	font-size: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-weight: bolder;
+	position: relative;
+    bottom: 40px;
+    font-family: 'Anton', sans-serif;
+}
+.upper-header-list-top2{
+	margin-left: 190px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    position: relative;
+    bottom: 80px;
+    font-family: 'Cookie', cursive;
+}
+.bold-para-div-top2{
+	position: relative;
+    width: 180px;
+    bottom: 145px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.upper-para-bold-top2{
+	margin-left: 20px;
+
+}
+.upper-para-name-top2{
+	margin-left: 40px;
+	position: relative;
+    bottom: 160px;
+}
+.lower-img1-top2{
+	float: left;
+	border-style: solid;
+    border-color: #ffffff;
+	height: 344px;
+	position: relative;
+	left: 20px;
+	top:30px;
+}
+.lower-img2-top2{
+	float:left;
+	border-style: solid;
+    border-color: #ffffff;
+	height: 344px;
+	position: relative;
+	left: 40px;
+	top: 30px;
+}
+.lower-header-top2{
+	color: pink;
+ 	margin-left: 20px;
+ 	position: relative;
+    font-size: 10px;
+    clear: left;
+    z-index: inherit;
+    top: 40px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.lower-para-top2{
+	margin-left: 20px;
+	position: relative;
+    clear: left;
+    z-index: inherit;
+    top: 25px;
+    width: 300px;
+    font-weight: 600;
+}
+.overall-box-top3{
+	width: 200px;
+	height:662px;
+	float: left;
+	position: relative;
+	left:30px;
+}
+.upper-half-box-top3{
+	width: 200px;
+	height: 414px;
+	background-color: purple;
+	position: relative;
+    bottom: 10px;
+}
+.lower-half-box-top3{
+	width: 200px;
+	height: 248px;
+	position: relative;
+	bottom:15px;
+}
+.upper-header-top3{
+	font-size:20;
+	color: #cccccc;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	font-weight: 600;
+}
+.upper-para-top3{
+	font-size: 11px;
+	color: #cccccc;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.price-movement{
+	position: relative;
+	font-size: 11px;
+	color: #cccccc;
+	left: 130px;
+}
+.upper-img-top3{
+	float: left;
+	width: 200px;
+	position: relative;
+	bottom: 95px;
+	left: 4px;
+}
+.lower-header-top3{
+	font-size:20;
+	font-weight: 600;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	position: relative;
+	bottom: 90px;
+}
+.lower-img-top3{
+	float: right;
+	height: 255px;
+	position: relative;
+	bottom: 95;
+}
+.lower-para-top3{
+	font-size: 11px;
+	position: relative;
+	bottom: 90px;
+}

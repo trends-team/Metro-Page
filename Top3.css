@@ -1,0 +1,66 @@
+body{
+	font-family: arial;
+}
+.overall-box-top3{
+	width: 200px;
+	height:662px;
+	float: right;
+}
+.upper-half-box-top3{
+	width: 200px;
+	height: 414px;
+	background-color: purple;
+}
+.lower-half-box-top3{
+	width: 200px;
+	height: 248px;
+}
+.upper-header-top3{
+	font-size:20;
+	color: #cccccc;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	font-weight: 600;
+}
+.upper-para-top3{
+	font-size: 11px;
+	color: #cccccc;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+strong{
+	text-align: right;
+}
+.price-movement{
+	position: relative;
+	font-size: 11px;
+	color: #cccccc;
+	left: 130px;
+}
+.upper-img-top3{
+	float: left;
+	width: 200px;
+	position: relative;
+	bottom: 95px;
+	left: 4px;
+}
+.lower-header-top3{
+	font-size:20;
+	font-weight: 600;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	position: relative;
+	bottom: 90px;
+}
+.lower-img-top3{
+	float: right;
+	height: 283px;
+	position: relative;
+	bottom: 95;
+}
+.lower-para-top3{
+	font-size: 11px;
+	position: relative;
+	bottom: 90px;
+}
