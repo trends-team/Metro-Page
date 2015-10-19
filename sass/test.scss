@@ -1,0 +1,33 @@
+
+@import "bourbon/bourbon";
+$font-stack:    Helvetica, sans-serif;
+
+$primary-color: #291400;
+$background: #FF9999;
+$border-defwidth: 1px;
+$border-colour: #781351;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+
+button {@include button(pill);}
+textarea {
+	background-color: $background;
+	color:$primary-color;
+
+}
+fieldset
+{
+border: $border-defwidth solid $border-colour;
+width: 20em;
+}
+input
+{
+color: $border-colour;
+background: $background;
+border: $border-defwidth solid $border-colour;
+line-height: 25px;
+}
