@@ -1,0 +1,132 @@
+
+.all-bottom{
+	margin:0px;
+	padding:0px;
+}
+.bottom-left {
+	width:325px;
+	display:inline-block;
+	background-color: purple;
+	color: white;
+}
+.bottom-middle{
+	width:325px;
+	display: inline-block;
+	background-color:none;
+	color: black;
+} 
+.bottom-right{
+	display:inline-block;
+	width:325px;
+}
+.bheader1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: purple;
+	color: white;
+	width: 325px;
+	margin:0px;
+	padding:0px;
+}
+.bheader2{
+	display:inline;
+	color: purple;
+	font-style:bold;
+	font-family: ScoutBold, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	border:0;
+	padding:0;
+}
+.bheader3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: white;
+	width: 165px;
+	margin:0px;
+	padding:0px;
+	background-color: #880000;
+	margin-left: 165px;
+}
+.bheader4{
+	color: purple;
+	font-weight: 700;
+	font-family: ScoutBold, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	border:0;
+	padding:0;
+	background-color: none;
+	clear:left;
+	display:inline;
+}
+
+.makeup-text {
+	background-color: purple;
+	color: white;
+	width: 325px;
+	margin:0px;
+	padding:0px;
+	display:inline-block;
+	
+}
+strong{
+	font-style: italic;
+	font-weight: 900;
+}
+.jumper-pic{
+	width:165px;
+	float:left;
+	display:inline;
+	height: 200px;
+	
+}
+.makeup-pic{
+	width:325px;
+	height: 390px;
+	display:inline-block;
+}
+.cleanshirt-pic{
+	width:325px;
+	display:inline-block;
+	
+}
+.hairwand-pic{
+	width: 325px;
+	left:0;
+	display:inline;
+	
+}
+.eye-gel-pic{
+	float:left;
+	width:165px;
+	height: 250px;
+	background-color: #880000;
+	margin-right: 1px;
+}
+.eye-gel-text{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: white;
+	width: 165px;
+	margin:0px;
+	padding:0px;
+	background-color: #880000;
+	margin-left: 165px;
+}
+p{
+	font-size:13px;
+}
+.rightjust{
+	font-weight: 900;
+	font-size: 13px;
+}
+.columntext{
+	width:325px;
+	color: black;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.clearfix{
+	clear:left;
+	clear:top;
+}
+
