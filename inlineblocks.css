@@ -87,9 +87,7 @@ strong{
 .cleanshirt-pic{
 	width:325px;
 	display:inline-block;
-	position: relative;
-	left:30;
-	top:-20;
+	
 }
 .hairwand-pic{
 	width: 325px;
@@ -126,5 +124,9 @@ p{
 	color: black;
 	margin-bottom: 0px;
 	margin-top: 0px;
+}
+.clearfix{
+	clear:left;
+	clear:top;
 }
 
