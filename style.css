@@ -6,6 +6,9 @@ strong{
 	font-weight: 900;
 	text-align: right;
 }
+span{
+	color: fuchsia;
+}
 .over-box-top{
 	width: 1050px;
     height: 662px;
@@ -14,6 +17,18 @@ strong{
 	width: 200px;
 	height:662px;
 	float: left;
+}
+.Trends{
+	color: fuchsia;
+	font-weight: 600;
+	font-size: 25px;
+	font-style: italic;
+	display:inline;
+}
+.Other{
+	font-size: 18px;
+	display:inline;
+	font-family: times; 
 }
 .upper-half-box-top1{
 	width: 200px;
