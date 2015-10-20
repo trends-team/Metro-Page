@@ -1,11 +1,10 @@
 
 @import "bourbon/bourbon";
-$font-stack:    Helvetica, sans-serif;
+@import "colors";
 
-$primary-color: #291400;
-$background: #FF9999;
+$font-stack:    Helvetica, sans-serif;
 $border-defwidth: 1px;
-$border-colour: #781351;
+
 
 body {
   font: 100% $font-stack;
