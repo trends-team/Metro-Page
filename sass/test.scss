@@ -46,6 +46,7 @@ span{
 		width:1050px; 
 		height:662px;
 		margin-left:1px;
+
 		}
 	.all-bottom	{
 		width:1050px; 
@@ -79,6 +80,9 @@ span{
 	}
 
 .over-box-top{ 
+	position: absolute;
+	display: flex;
+	flex-direction:row;
 	width: 1050px;
     height: 662px;
 }
