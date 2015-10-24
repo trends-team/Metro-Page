@@ -1,0 +1,117 @@
+
+.upper-header-top1 {
+  font-size: 2vw;
+  color: $textcolor2;;
+  margin-top: 1vw;
+  margin-left: 0.5vw;
+  margin-bottom: 0px;
+  font-weight: $middlefontweight;
+  width: 98%;
+  height: 13%; }
+
+  .lower-header-top1 {
+  font-size: 1.5vw;
+  font-weight: $middlefontweight;
+  color: $textcolor3;
+  width: 100%;
+}
+
+  .upper-header-the-top2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 1vw;
+  font-size: 5vw;
+  font-family: "Cookie", cursive;
+  position: relative;
+  top: 3vw;
+  /*width: 85%;
+  height: 39%; */}
+
+.upper-header-hot-top2 {
+  color: $pink;
+  margin-left: 6vw;
+  font-size: 10vw;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+  position: relative;
+  bottom: 4vw;
+  font-family: "Anton", sans-serif;
+  /*width: 100%;
+  height: 100%; */}
+
+.upper-header-list-top2 {
+  margin-left: 19vw;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 5vw;
+  position: relative;
+  bottom: 8vw;
+  font-family: "Cookie", cursive;
+  /*width: 68%;
+  height: 40%; */}
+
+  .lower-header-top2 {
+  color: fuchsia;
+  margin-left: 2vw;
+  position: relative;
+  font-size: 10vw;
+  clear: left;
+  z-index: inherit;
+  top: 1vw;
+  font-weight: $middlefontweight;
+  font-size: 1.5vw;
+  width: 94%;
+  /*height: 4%; */}
+
+.upper-header-top3 {
+  font-size: 2vw;
+  color: $textcolor2;
+  margin-top: 0vw;
+  margin-left: 0.5vw;
+  margin-bottom: 0px;
+  font-weight: $middlefontweight;
+  width: 98%;
+  height: 13%; }
+
+.lower-header-top3 {
+  font-size: 1.5vw;
+  font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  position: relative;
+  width: 100%;
+  }
+
+.bheader1 {
+  font-size: 1.5vw;
+  margin: 0px; 
+  color:$textcolor2;
+  background-color: $backgroundtwo;
+}
+
+.bheader2 {
+  color: maroon;
+  font-weight: 600;
+  font-size: 1.8vw;
+  margin: 0px;
+display:inline;}
+
+.bheader3 {
+  color: $textcolor2;
+  font-weight: 600;
+  font-size: 1.4vw;
+  margin-bottom:0;
+}
+
+.bheader4 {
+ clear: left;
+color: $textcolor3;
+  font-weight: 700;
+  font-size: 1.5vw;
+  display:relative;
+  bottom:2vw;
+  margin-left:15%;
+  margin-bottom: 2vw;
+  }
+
