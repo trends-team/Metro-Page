@@ -2,26 +2,24 @@
 	width: 600px;
 	height:662px;
 	background-color: #999999;
-	float: left;
 	font-size: 11px;
 	color: #cccccc;
 	font-family: arial;
 }
 .upper-half-box-top2{
  	height:140px;
- 	position: relative;
+ 	position: absolute;
     bottom: 10px;
 }
 .lower-half-box-top2{
 	height:522px;
 	width:340px;
-	position: relative;
+	position: absolute;
 	top: 40px;
 }
 .middle-img-top2{
 	height: 666px;
-    float: right;
-    position: relative;
+    position: absolute;
     right: 35px;
     bottom: 5px;
 }
@@ -39,7 +37,7 @@
 	margin-top: 0px;
 	margin-bottom: 0px;
 	font-weight: bolder;
-	position: relative;
+	position: absolute;
     bottom: 40px;
     font-family: 'Anton', sans-serif;
 }
@@ -48,12 +46,12 @@
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 50px;
-    position: relative;
+    position: absolute;
     bottom: 80px;
     font-family: 'Cookie', cursive;
 }
 .bold-para-div-top2{
-	position: relative;
+	position: absolute;
     width: 180px;
     bottom: 155px;
     font-weight: 600;
@@ -61,35 +59,32 @@
 }
 .upper-para-bold-top2{
 	margin-left: 20px;
-
 }
 .upper-para-name-top2{
 	margin-left: 40px;
-	position: relative;
+	position: absolute;
     bottom: 170px;
 }
 .lower-img1-top2{
-	float: left;
 	border-style: solid;
     border-color: #ffffff;
 	height: 344px;
-	position: relative;
+	position: absolute;
 	left: 20px;
 	top:30px;
 }
 .lower-img2-top2{
-	float:left;
 	border-style: solid;
     border-color: #ffffff;
 	height: 344px;
-	position: relative;
+	position: absolute;
 	left: 40px;
 	top: 30px;
 }
 .lower-header-top2{
 	color: pink;
  	margin-left: 20px;
- 	position: relative;
+ 	position: absolute;
     font-size: 10px;
     clear: left;
     z-index: inherit;
@@ -99,7 +94,7 @@
 }
 .lower-para-top2{
 	margin-left: 20px;
-	position: relative;
+	position: absolute;
     clear: left;
     z-index: inherit;
     top: 25px;
